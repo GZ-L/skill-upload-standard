@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Upload Standard"
+  short_description: "Require professional GitHub documentation for uploaded Skills"
+  default_prompt: "Use $skill-upload-standard before uploading this Skill to GitHub."
